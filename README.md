@@ -1,4 +1,4 @@
-# Seminar_PC
+# Estimating High-Dimensional DAGs with the PC-Algorithm
 This repository contains code and results of numerical experiments on the PC algorithm and several extensions.
 
 In folder [**01_Code**](https://github.com/TheresaMeier/Seminar_PC/tree/master/01_Code) codes of the simulation study and its visualization are provided. 
